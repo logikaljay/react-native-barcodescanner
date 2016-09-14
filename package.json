@@ -1,5 +1,5 @@
 {
-  "name": "react-native-barcodescanner",
+  "name": "@lotto-nz/react-native-barcodescanner",
   "version": "3.0.0",
   "description": "A barcode scanner component for react native",
   "license": "MIT",
